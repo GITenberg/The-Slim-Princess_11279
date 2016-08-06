@@ -1,0 +1,37 @@
+_repo: The-Slim-Princess_11279
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Kerr, George F.
+    birthdate: 1869
+    deathdate: 1953
+    gutenberg_agent_id: '26526'
+    url: http://www.gutenberg.org/2009/agents/26526
+creator:
+  author:
+    agent_name: Ade, George
+    birthdate: 1866
+    deathdate: 1944
+    gutenberg_agent_id: '3917'
+    url: http://www.gutenberg.org/2009/agents/3917
+    wikipedia: http://en.wikipedia.org/wiki/George_Ade
+description: In the fictional land of Morovenia, where large women are considered
+  beautiful while thin ones are unattractive, the 'slim princess' Kalora struggles
+  to attract a suitor until she meets a brash young American.
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11279'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Millionaires -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Wit and humor'
+- !lcsh 'Princesses -- Fiction'
+- !lcsh 'East and West -- Fiction'
+- GITenberg
+title: The Slim Princess
+url: http://www.gutenberg.org/ebooks/11279
